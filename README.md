@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! 
+
+My name is Albin Jonsson. I'm currently attending KTH and studying my second year in the "Civilingenjör i Informationsteknik" program. This is my github where I have both personal projects, which you will find under the "Personal-projects" repository as well as my course work which you will find under  the KTH-courses repository. You will also be able to find a game that I was a part of the development team of at charmkvark.github.io
+
+Thank you for visiting my github and hope you have a great day.
+Best regards,
+Albin Jonsson.
